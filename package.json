@@ -1,0 +1,9 @@
+
+{
+  "name": "baba-eletronica",
+  "version": "1.0.0",
+  "description": "Babá Eletrônica com WebRTC",
+  "scripts": {
+    "build": "echo 'Build completo' && exit 0"
+  }
+}
