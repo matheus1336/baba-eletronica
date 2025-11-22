@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "buildCommand": "echo 'Static build'",
+  "outputDirectory": ".",
+  "installCommand": "echo 'No dependencies'",
+  "framework": null,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
